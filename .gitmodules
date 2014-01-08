@@ -1,0 +1,3 @@
+[submodule "deps/fann"]
+	path = deps/fann
+	url = https://github.com/libfann/fann.git
